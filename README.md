@@ -1,1 +1,1 @@
-# DevSync-Workflow
+[![Daily Auto Commit](https://github.com/shubhamvithalkar/DevSync-Workflow/actions/workflows/daily-commit.yml/badge.svg)](https://github.com/shubhamvithalkar/DevSync-Workflow/actions/workflows/daily-commit.yml)
